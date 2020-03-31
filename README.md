@@ -4,7 +4,7 @@ A binary watch has 4 LEDs on the top which represent the hours (0-11), and the 6
 
 Each LED represents a zero or one, with the least significant bit on the right.
 
-
+![image](https://github.com/eric82714/LeetCode_401--Binary-Watch/blob/master/image/example.PNG)
 
 For example, the above binary watch reads "3:25".
 
